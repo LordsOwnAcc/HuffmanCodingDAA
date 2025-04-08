@@ -49,14 +49,14 @@ export default function MentorSection() {
               </div>
               <div className="md:w-2/3">
                 <CardContent className="p-6 md:p-8">
-                  <h3 className="text-2xl font-bold mb-1 text-gray-900 dark:text-white">Dr. Sarah Johnson</h3>
+                  <h3 className="text-2xl font-bold mb-1 text-gray-900 dark:text-white">Dr. Ishu Sharma</h3>
                   <p className="text-cyan-600 dark:text-cyan-400 font-medium mb-4">
                     Associate Professor, Computer Science
                   </p>
 
                   <div className="mb-6">
                     <p className="text-gray-700 dark:text-gray-300 mb-4">
-                      Dr. Johnson specializes in data compression algorithms and information theory. With over 15 years
+                      Dr. Ishu specializes in data compression algorithms and information theory. With over 15 years
                       of experience in the field, she has published numerous papers on efficient encoding techniques and
                       their applications.
                     </p>
@@ -69,7 +69,7 @@ export default function MentorSection() {
                   <div className="flex flex-wrap gap-4">
                     <div className="flex items-center text-gray-600 dark:text-gray-400">
                       <BookOpen className="h-5 w-5 mr-2" />
-                      <span>Ph.D. in Computer Science, MIT</span>
+                      <span>Ph.D. in Computer Science</span>
                     </div>
                     <div className="flex items-center text-gray-600 dark:text-gray-400">
                       <Mail className="h-5 w-5 mr-2" />
@@ -77,7 +77,7 @@ export default function MentorSection() {
                         href="mailto:sarah.johnson@example.edu"
                         className="hover:text-cyan-600 dark:hover:text-cyan-400 transition-colors"
                       >
-                        sarah.johnson@example.edu
+                        IshuMaadamemail.com
                       </Link>
                     </div>
                     <div className="flex items-center text-gray-600 dark:text-gray-400">
